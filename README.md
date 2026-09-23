@@ -8,3 +8,7 @@ The part that surprised me the most was how they check if the pages actually wor
 Keonsang - Really cool article! I liked your point that having a teacher approve the page
 is like reviewing a pull request. It shows that testing and review will still
 matter even when AI writes the code.
+
+## Comment by ij2298-oss
+
+The comparison to reviewing a pull request makes sense to me. An AI can check whether the buttons work and a level can be completed, but that does not necessarily mean the simulation teaches the concept clearly. Teacher review seems especially useful for catching that gap. I would also be interested in seeing whether students learn more from these custom simulations than from existing ones, since the article says studies of learning gains are still planned.
