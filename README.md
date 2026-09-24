@@ -12,3 +12,7 @@ matter even when AI writes the code.
 ## Comment by ij2298-oss
 
 The comparison to reviewing a pull request makes sense to me. An AI can check whether the buttons work and a level can be completed, but that does not necessarily mean the simulation teaches the concept clearly. Teacher review seems especially useful for catching that gap. I would also be interested in seeing whether students learn more from these custom simulations than from existing ones, since the article says studies of learning gains are still planned.
+
+## Comment by elineson
+
+As AI is changing many industries in ways that we have not even imagined of, I think it is interesting yet concerning at the same time. It may give students a wide variety of learning experiences, most likely better than previous education systems. However, I also think that learning is not only a sole way to get knowledge, but also a mean to interact with teachers, and with other students, serving as a role to cope with struggles between people. 
